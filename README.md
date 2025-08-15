@@ -32,7 +32,8 @@ Structure of the GitHub repository:
 
 Chapter 0 - Welcome 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/dchappell2/Computational-Physics/Python_Tutorials/Chapter_0_Welcome.ipynb)
+https://colab.research.google.com/github/dchappell2/Computational-Physics/blob/main/Python_Tutorials/Chapter_0_Welcome.ipynb)
+
 
 ---
 
